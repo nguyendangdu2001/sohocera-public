@@ -3,8 +3,8 @@
     "static/js/0.ff8d905c.chunk.js": "/sohocera-public/static/js/0.ff8d905c.chunk.js",
     "static/js/0.ff8d905c.chunk.js.map": "/sohocera-public/static/js/0.ff8d905c.chunk.js.map",
     "main.css": "/sohocera-public/static/css/main.cb18e59f.chunk.css",
-    "main.js": "/sohocera-public/static/js/main.1a70c96e.chunk.js",
-    "main.js.map": "/sohocera-public/static/js/main.1a70c96e.chunk.js.map",
+    "main.js": "/sohocera-public/static/js/main.2eaa5cfd.chunk.js",
+    "main.js.map": "/sohocera-public/static/js/main.2eaa5cfd.chunk.js.map",
     "runtime-main.js": "/sohocera-public/static/js/runtime-main.7849ee19.js",
     "runtime-main.js.map": "/sohocera-public/static/js/runtime-main.7849ee19.js.map",
     "static/js/3.277ac74a.chunk.js": "/sohocera-public/static/js/3.277ac74a.chunk.js",
@@ -50,6 +50,6 @@
     "static/js/runtime-main.7849ee19.js",
     "static/js/3.277ac74a.chunk.js",
     "static/css/main.cb18e59f.chunk.css",
-    "static/js/main.1a70c96e.chunk.js"
+    "static/js/main.2eaa5cfd.chunk.js"
   ]
 }
