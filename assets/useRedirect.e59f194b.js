@@ -1,0 +1,1 @@
+import{F as o}from"./vendor.6b0643d3.js";import{an as s}from"./index.b319bc6c.js";const c=c=>{const e=s();o.useEffect((()=>(c.some((({condition:o,to:s,cb:c})=>(o&&(e.replace(s),null==c||c()),o))),()=>{})),[c,e])};export{c as u};

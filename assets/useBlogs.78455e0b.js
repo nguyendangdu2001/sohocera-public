@@ -1,0 +1,1 @@
+import{ab as a,a6 as t,a8 as s}from"./index.b319bc6c.js";const e=(e=4)=>{const o=a();return t(["blogs",{take:e}],(async()=>{const{data:a}=await o.get(`${s.apiGateWay}/blog?take=${e}`);return a}),{refetchOnWindowFocus:!1})};export{e as u};

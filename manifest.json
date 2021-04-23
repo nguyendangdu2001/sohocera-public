@@ -1,25 +1,388 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "sizes": "64x64 32x32 24x24 16x16",
-      "type": "image/x-icon"
-    },
-    {
-      "src": "logo192.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "logo512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "index.html": {
+    "file": "assets/index.b319bc6c.js",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ],
+    "dynamicImports": [
+      "src/pages/Home/Home.jsx",
+      "src/pages/Login/index.jsx",
+      "src/pages/SignUp/index.jsx",
+      "src/pages/AgencyDashBoard/index.jsx",
+      "src/pages/GettingReport/index.jsx",
+      "src/pages/AgencyPolicy/index.jsx",
+      "src/pages/Blogs/index.jsx",
+      "src/pages/BlogDetail/index.jsx",
+      "src/pages/UserManagement/index.jsx",
+      "src/config/framer-motion/index.js",
+      "node_modules/web-vitals/dist/web-vitals.js"
+    ],
+    "css": [
+      "assets/index.5be34c9b.css"
+    ],
+    "assets": [
+      "assets/SVN-Book-Antiqua.8f7738f7.ttf",
+      "assets/SVN-Avo.1a1d616d.ttf",
+      "assets/background.2f75ae51.png"
+    ]
+  },
+  "_vendor.6b0643d3.js": {
+    "file": "assets/vendor.6b0643d3.js",
+    "dynamicImports": [
+      "_YouTube.752f97cc.js",
+      "_SoundCloud.82f9cffd.js",
+      "_Vimeo.66e72792.js",
+      "_Facebook.3dffe075.js",
+      "_Streamable.7e23848d.js",
+      "_Wistia.388ac606.js",
+      "_Twitch.ac3b4b39.js",
+      "_DailyMotion.0249d90d.js",
+      "_Mixcloud.446b68d6.js",
+      "_Vidyard.0350ea1f.js",
+      "_Kaltura.3de308c0.js",
+      "_FilePlayer.bfbe7bf9.js",
+      "_Preview.b8d192d7.js"
+    ]
+  },
+  "src/config/framer-motion/index.js": {
+    "file": "assets/index.6d524e08.js",
+    "src": "src/config/framer-motion/index.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vendor.6b0643d3.js",
+      "_SharedLayoutContext.97bd556c.js"
+    ]
+  },
+  "_SharedLayoutContext.97bd556c.js": {
+    "file": "assets/SharedLayoutContext.97bd556c.js",
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "node_modules/web-vitals/dist/web-vitals.js": {
+    "file": "assets/web-vitals.13467a1d.js",
+    "src": "node_modules/web-vitals/dist/web-vitals.js",
+    "isDynamicEntry": true
+  },
+  "src/pages/Home/Home.jsx": {
+    "file": "assets/Home.9b9ac09f.js",
+    "src": "src/pages/Home/Home.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "_timeago-react.22ce8e42.js",
+      "index.html",
+      "_useBlogs.78455e0b.js",
+      "_index.78ec7960.js",
+      "_SharedLayoutContext.97bd556c.js"
+    ],
+    "assets": [
+      "assets/dangkytrainghiem.be957a32.jpg",
+      "assets/Era-Introduction-1.e35beec3.mp4"
+    ]
+  },
+  "_useBlogs.78455e0b.js": {
+    "file": "assets/useBlogs.78455e0b.js",
+    "imports": [
+      "index.html"
+    ]
+  },
+  "_index.78ec7960.js": {
+    "file": "assets/index.78ec7960.js",
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_timeago-react.22ce8e42.js": {
+    "file": "assets/timeago-react.22ce8e42.js",
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html"
+    ]
+  },
+  "src/pages/Login/index.jsx": {
+    "file": "assets/index.3d0254a6.js",
+    "src": "src/pages/Login/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_HashLoader.c9a8dca6.js",
+      "_useRedirect.e59f194b.js"
+    ]
+  },
+  "_HashLoader.c9a8dca6.js": {
+    "file": "assets/HashLoader.c9a8dca6.js",
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html"
+    ]
+  },
+  "_useRedirect.e59f194b.js": {
+    "file": "assets/useRedirect.e59f194b.js",
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html"
+    ]
+  },
+  "src/pages/SignUp/index.jsx": {
+    "file": "assets/index.f0a437d5.js",
+    "src": "src/pages/SignUp/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_HashLoader.c9a8dca6.js",
+      "_useRedirect.e59f194b.js"
+    ]
+  },
+  "src/pages/AgencyDashBoard/index.jsx": {
+    "file": "assets/index.822cc175.js",
+    "src": "src/pages/AgencyDashBoard/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_index.8f3f1a40.js",
+      "_HashLoader.c9a8dca6.js"
+    ]
+  },
+  "_index.8f3f1a40.js": {
+    "file": "assets/index.8f3f1a40.js",
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html"
+    ]
+  },
+  "src/pages/GettingReport/index.jsx": {
+    "file": "assets/index.018df8e9.js",
+    "src": "src/pages/GettingReport/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vendor.6b0643d3.js",
+      "_HashLoader.c9a8dca6.js"
+    ],
+    "dynamicImports": [
+      "src/pages/GettingReport/Form1.jsx",
+      "src/pages/GettingReport/Form2.jsx",
+      "src/pages/GettingReport/Form3.jsx"
+    ]
+  },
+  "src/pages/AgencyPolicy/index.jsx": {
+    "file": "assets/index.e6ed45cb.js",
+    "src": "src/pages/AgencyPolicy/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html"
+    ]
+  },
+  "src/pages/Blogs/index.jsx": {
+    "file": "assets/index.5cfbf1bb.js",
+    "src": "src/pages/Blogs/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_index.b4bff035.js",
+      "_useBlogs.78455e0b.js"
+    ]
+  },
+  "_index.b4bff035.js": {
+    "file": "assets/index.b4bff035.js",
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html"
+    ]
+  },
+  "src/pages/BlogDetail/index.jsx": {
+    "file": "assets/index.b7795f35.js",
+    "src": "src/pages/BlogDetail/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_index.b4bff035.js"
+    ]
+  },
+  "src/pages/UserManagement/index.jsx": {
+    "file": "assets/index.cf7f935d.js",
+    "src": "src/pages/UserManagement/index.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "index.html",
+      "_vendor.6b0643d3.js",
+      "_useRedirect.e59f194b.js"
+    ],
+    "dynamicImports": [
+      "src/pages/UserManagement/PdfManagement.jsx",
+      "src/pages/UserManagement/UserInfoManagement.jsx",
+      "src/pages/UserManagement/VideoManagement.jsx"
+    ]
+  },
+  "_YouTube.752f97cc.js": {
+    "file": "assets/YouTube.752f97cc.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_SoundCloud.82f9cffd.js": {
+    "file": "assets/SoundCloud.82f9cffd.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Vimeo.66e72792.js": {
+    "file": "assets/Vimeo.66e72792.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Facebook.3dffe075.js": {
+    "file": "assets/Facebook.3dffe075.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Streamable.7e23848d.js": {
+    "file": "assets/Streamable.7e23848d.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Wistia.388ac606.js": {
+    "file": "assets/Wistia.388ac606.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Twitch.ac3b4b39.js": {
+    "file": "assets/Twitch.ac3b4b39.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_DailyMotion.0249d90d.js": {
+    "file": "assets/DailyMotion.0249d90d.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Mixcloud.446b68d6.js": {
+    "file": "assets/Mixcloud.446b68d6.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Vidyard.0350ea1f.js": {
+    "file": "assets/Vidyard.0350ea1f.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Kaltura.3de308c0.js": {
+    "file": "assets/Kaltura.3de308c0.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_FilePlayer.bfbe7bf9.js": {
+    "file": "assets/FilePlayer.bfbe7bf9.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "_Preview.b8d192d7.js": {
+    "file": "assets/Preview.b8d192d7.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js"
+    ]
+  },
+  "src/pages/GettingReport/Form1.jsx": {
+    "file": "assets/Form1.5921b500.js",
+    "src": "src/pages/GettingReport/Form1.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_FormStyleProvider.fda5b982.js"
+    ]
+  },
+  "_FormStyleProvider.fda5b982.js": {
+    "file": "assets/FormStyleProvider.fda5b982.js",
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html"
+    ]
+  },
+  "src/pages/GettingReport/Form2.jsx": {
+    "file": "assets/Form2.407f929a.js",
+    "src": "src/pages/GettingReport/Form2.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "_index.78ec7960.js",
+      "index.html",
+      "_FormStyleProvider.fda5b982.js"
+    ]
+  },
+  "src/pages/GettingReport/Form3.jsx": {
+    "file": "assets/Form3.8613020e.js",
+    "src": "src/pages/GettingReport/Form3.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_FormStyleProvider.fda5b982.js"
+    ]
+  },
+  "src/pages/UserManagement/PdfManagement.jsx": {
+    "file": "assets/PdfManagement.912833f6.js",
+    "src": "src/pages/UserManagement/PdfManagement.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_timeago-react.22ce8e42.js",
+      "_HashLoader.c9a8dca6.js",
+      "_index.8f3f1a40.js"
+    ]
+  },
+  "src/pages/UserManagement/UserInfoManagement.jsx": {
+    "file": "assets/UserInfoManagement.8389e6d3.js",
+    "src": "src/pages/UserManagement/UserInfoManagement.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "index.html",
+      "_HashLoader.c9a8dca6.js"
+    ]
+  },
+  "src/pages/UserManagement/VideoManagement.jsx": {
+    "file": "assets/VideoManagement.9d94c8f0.js",
+    "src": "src/pages/UserManagement/VideoManagement.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_vendor.6b0643d3.js",
+      "_index.78ec7960.js",
+      "index.html"
+    ]
+  }
 }
