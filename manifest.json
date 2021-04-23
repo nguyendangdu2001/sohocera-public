@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index.b4d99e7c.js",
+    "file": "assets/index.a388e93a.js",
     "src": "index.html",
     "isEntry": true,
     "imports": [
@@ -20,7 +20,7 @@
       "node_modules/web-vitals/dist/web-vitals.js"
     ],
     "css": [
-      "assets/index.77f15de2.css"
+      "assets/index.dc72da33.css"
     ],
     "assets": [
       "assets/SVN-Book-Antiqua.8f7738f7.ttf",
@@ -47,7 +47,7 @@
     ]
   },
   "src/config/framer-motion/index.js": {
-    "file": "assets/index.155662d6.js",
+    "file": "assets/index.c57a4a3f.js",
     "src": "src/config/framer-motion/index.js",
     "isDynamicEntry": true,
     "imports": [
@@ -68,14 +68,14 @@
     "isDynamicEntry": true
   },
   "src/pages/Home/Home.jsx": {
-    "file": "assets/Home.9cb53abe.js",
+    "file": "assets/Home.60e34206.js",
     "src": "src/pages/Home/Home.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
-      "_timeago-react.5cdadd23.js",
+      "_timeago-react.d3903a9a.js",
       "index.html",
-      "_useBlogs.76cbfb54.js",
+      "_useBlogs.458fa415.js",
       "_index.78ec7960.js",
       "_SharedLayoutContext.97bd556c.js"
     ],
@@ -84,8 +84,8 @@
       "assets/Era-Introduction-1.e35beec3.mp4"
     ]
   },
-  "_useBlogs.76cbfb54.js": {
-    "file": "assets/useBlogs.76cbfb54.js",
+  "_useBlogs.458fa415.js": {
+    "file": "assets/useBlogs.458fa415.js",
     "imports": [
       "index.html"
     ]
@@ -96,75 +96,75 @@
       "_vendor.6b0643d3.js"
     ]
   },
-  "_timeago-react.5cdadd23.js": {
-    "file": "assets/timeago-react.5cdadd23.js",
+  "_timeago-react.d3903a9a.js": {
+    "file": "assets/timeago-react.d3903a9a.js",
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html"
     ]
   },
   "src/pages/Login/index.jsx": {
-    "file": "assets/index.bb77fcf2.js",
+    "file": "assets/index.2cc063eb.js",
     "src": "src/pages/Login/index.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_HashLoader.a8b156b2.js",
-      "_useRedirect.78fc9a2d.js"
+      "_HashLoader.112b7b6a.js",
+      "_useRedirect.73b80336.js"
     ]
   },
-  "_HashLoader.a8b156b2.js": {
-    "file": "assets/HashLoader.a8b156b2.js",
+  "_HashLoader.112b7b6a.js": {
+    "file": "assets/HashLoader.112b7b6a.js",
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html"
     ]
   },
-  "_useRedirect.78fc9a2d.js": {
-    "file": "assets/useRedirect.78fc9a2d.js",
+  "_useRedirect.73b80336.js": {
+    "file": "assets/useRedirect.73b80336.js",
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html"
     ]
   },
   "src/pages/SignUp/index.jsx": {
-    "file": "assets/index.0d4a5277.js",
+    "file": "assets/index.f18364ee.js",
     "src": "src/pages/SignUp/index.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_HashLoader.a8b156b2.js",
-      "_useRedirect.78fc9a2d.js"
+      "_HashLoader.112b7b6a.js",
+      "_useRedirect.73b80336.js"
     ]
   },
   "src/pages/AgencyDashBoard/index.jsx": {
-    "file": "assets/index.f2ec6f06.js",
+    "file": "assets/index.8bcb9b1f.js",
     "src": "src/pages/AgencyDashBoard/index.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_index.20792c8a.js",
-      "_HashLoader.a8b156b2.js"
+      "_index.37ba5a69.js",
+      "_HashLoader.112b7b6a.js"
     ]
   },
-  "_index.20792c8a.js": {
-    "file": "assets/index.20792c8a.js",
+  "_index.37ba5a69.js": {
+    "file": "assets/index.37ba5a69.js",
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html"
     ]
   },
   "src/pages/GettingReport/index.jsx": {
-    "file": "assets/index.e21bdfc6.js",
+    "file": "assets/index.869527fc.js",
     "src": "src/pages/GettingReport/index.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_vendor.6b0643d3.js",
-      "_HashLoader.a8b156b2.js"
+      "_HashLoader.112b7b6a.js"
     ],
     "dynamicImports": [
       "src/pages/GettingReport/Form1.jsx",
@@ -173,7 +173,7 @@
     ]
   },
   "src/pages/AgencyPolicy/index.jsx": {
-    "file": "assets/index.fb8f73c0.js",
+    "file": "assets/index.52a02401.js",
     "src": "src/pages/AgencyPolicy/index.jsx",
     "isDynamicEntry": true,
     "imports": [
@@ -182,41 +182,41 @@
     ]
   },
   "src/pages/Blogs/index.jsx": {
-    "file": "assets/index.068b4a6f.js",
+    "file": "assets/index.4b14d7ba.js",
     "src": "src/pages/Blogs/index.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_index.a83c2084.js",
-      "_useBlogs.76cbfb54.js"
+      "_index.9cf4746e.js",
+      "_useBlogs.458fa415.js"
     ]
   },
-  "_index.a83c2084.js": {
-    "file": "assets/index.a83c2084.js",
+  "_index.9cf4746e.js": {
+    "file": "assets/index.9cf4746e.js",
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html"
     ]
   },
   "src/pages/BlogDetail/index.jsx": {
-    "file": "assets/index.108a6b98.js",
+    "file": "assets/index.e94d08b6.js",
     "src": "src/pages/BlogDetail/index.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_index.a83c2084.js"
+      "_index.9cf4746e.js"
     ]
   },
   "src/pages/UserManagement/index.jsx": {
-    "file": "assets/index.642346ca.js",
+    "file": "assets/index.1b8189ba.js",
     "src": "src/pages/UserManagement/index.jsx",
     "isDynamicEntry": true,
     "imports": [
       "index.html",
       "_vendor.6b0643d3.js",
-      "_useRedirect.78fc9a2d.js"
+      "_useRedirect.73b80336.js"
     ],
     "dynamicImports": [
       "src/pages/UserManagement/PdfManagement.jsx",
@@ -316,67 +316,67 @@
     ]
   },
   "src/pages/GettingReport/Form1.jsx": {
-    "file": "assets/Form1.54f13e9e.js",
+    "file": "assets/Form1.4feaa02c.js",
     "src": "src/pages/GettingReport/Form1.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_FormStyleProvider.15990b5d.js"
+      "_FormStyleProvider.9f6453b0.js"
     ]
   },
-  "_FormStyleProvider.15990b5d.js": {
-    "file": "assets/FormStyleProvider.15990b5d.js",
+  "_FormStyleProvider.9f6453b0.js": {
+    "file": "assets/FormStyleProvider.9f6453b0.js",
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html"
     ]
   },
   "src/pages/GettingReport/Form2.jsx": {
-    "file": "assets/Form2.9e2c0f36.js",
+    "file": "assets/Form2.f261c6c5.js",
     "src": "src/pages/GettingReport/Form2.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "_index.78ec7960.js",
       "index.html",
-      "_FormStyleProvider.15990b5d.js"
+      "_FormStyleProvider.9f6453b0.js"
     ]
   },
   "src/pages/GettingReport/Form3.jsx": {
-    "file": "assets/Form3.03850c77.js",
+    "file": "assets/Form3.62e47546.js",
     "src": "src/pages/GettingReport/Form3.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_FormStyleProvider.15990b5d.js"
+      "_FormStyleProvider.9f6453b0.js"
     ]
   },
   "src/pages/UserManagement/PdfManagement.jsx": {
-    "file": "assets/PdfManagement.5ac17108.js",
+    "file": "assets/PdfManagement.4103347a.js",
     "src": "src/pages/UserManagement/PdfManagement.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_timeago-react.5cdadd23.js",
-      "_HashLoader.a8b156b2.js",
-      "_index.20792c8a.js"
+      "_timeago-react.d3903a9a.js",
+      "_HashLoader.112b7b6a.js",
+      "_index.37ba5a69.js"
     ]
   },
   "src/pages/UserManagement/UserInfoManagement.jsx": {
-    "file": "assets/UserInfoManagement.9fce0b21.js",
+    "file": "assets/UserInfoManagement.d85267cf.js",
     "src": "src/pages/UserManagement/UserInfoManagement.jsx",
     "isDynamicEntry": true,
     "imports": [
       "_vendor.6b0643d3.js",
       "index.html",
-      "_HashLoader.a8b156b2.js"
+      "_HashLoader.112b7b6a.js"
     ]
   },
   "src/pages/UserManagement/VideoManagement.jsx": {
-    "file": "assets/VideoManagement.28f26f63.js",
+    "file": "assets/VideoManagement.b170b1a5.js",
     "src": "src/pages/UserManagement/VideoManagement.jsx",
     "isDynamicEntry": true,
     "imports": [
